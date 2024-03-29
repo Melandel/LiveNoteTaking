@@ -1,0 +1,1 @@
+﻿record EnhancedMarkdownRenderingRequest(string MarkdownText);
